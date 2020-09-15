@@ -2,8 +2,11 @@
 This is a simple program i made which can terminate a process, dump a process and inject into a process
 
 I made this since sometimes processess just don't show up in windows task manager. When they are not fully closed.
-I decided to also make a Process dumper and injector since i just wanted to know how to do that.
+I decided to also make a injector since i just wanted to know how to do that.
 
-dumper and injector still WIP
+injector still WIP
 
-![alt text](https://i.imgur.com/63S5IKY.png)
+# Screenshots
+![alt text](https://i.imgur.com/CuRbhi0.png)
+![alt text](https://i.imgur.com/xokjwfU.png)
+![alt text](https://i.imgur.com/ICPeZZc.png)
