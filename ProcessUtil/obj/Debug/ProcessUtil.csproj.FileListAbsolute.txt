@@ -10,3 +10,11 @@ C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\Debug\ProcessUtil.cspro
 C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\Debug\ProcessUtil.csproj.CopyComplete
 C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\Debug\ProcessUtil.exe
 C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\Debug\ProcessUtil.pdb
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\INIFileParser.dll
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\INIFileParser.xml
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\Debug\System.Threading.Tasks.Extensions.xml
