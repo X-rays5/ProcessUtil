@@ -1,10 +1,9 @@
 # ProcessUtil
 This is a simple program i made which can terminate a process and inject into a process
 
-I made this since sometimes processess just don't show up in windows task manager. When they are not fully closed.
-I decided to also make a injector since i just wanted to know how to do that.
+I made this cause finding a background process while can be really irritating in windows task manager
 
-injector still WIP
+injector is BROKEN
 
 # Screenshots
 ![alt text](https://i.imgur.com/CuRbhi0.png)
