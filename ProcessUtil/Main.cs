@@ -40,7 +40,7 @@ namespace ProcessUtil
 		void LoadPCInfo()
         {
             pcname.Text = "PC Name: " + Environment.MachineName.ToString();
-			pcusername.Text = "Username" + Environment.UserName;
+			pcusername.Text = "Username: " + Environment.UserName;
 			pcosversion.Text = "OS: " + Environment.OSVersion;
 			if (Environment.Is64BitOperatingSystem)
             {
