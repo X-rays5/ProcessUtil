@@ -1,9 +1,0 @@
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\x64\x64\ProcessUtil.exe.config
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\x64\x64\ProcessUtil.exe
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\bin\x64\x64\MetroFramework.dll
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\x64\x64\ProcessUtil.Form1.resources
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\x64\x64\ProcessUtil.Properties.Resources.resources
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\x64\x64\ProcessUtil.csproj.GenerateResource.cache
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\x64\x64\ProcessUtil.csproj.CoreCompileInputs.cache
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\x64\x64\ProcessUtil.csproj.CopyComplete
-C:\Users\X-ray\sources\repos\ProcessUtil\ProcessUtil\obj\x64\x64\ProcessUtil.exe
